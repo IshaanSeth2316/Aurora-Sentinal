@@ -1,0 +1,102 @@
+{
+  "test_date": "2026-03-27T09:20:32.461327",
+  "total_videos": 17,
+  "passed": 5,
+  "failed": 12,
+  "pass_rate": 0.29411764705882354,
+  "pass_rate_threshold": 0.8,
+  "ml_threshold": 30.0,
+  "vlm_threshold": 30.0,
+  "statistics": {
+    "ml_mean": 46.097700292023504,
+    "ml_max": 97.2,
+    "ai_mean": 9.411764705882353,
+    "ai_max": 10.0,
+    "final_mean": 22.262143128182085,
+    "final_max": 36.16
+  },
+  "failed_videos": [
+    {
+      "name": "Normal_Videos_100_x264.mp4",
+      "max_ml": 52.65,
+      "max_ai": 10.0,
+      "max_final": 22.794999999999998
+    },
+    {
+      "name": "Normal_Videos_129_x264.mp4",
+      "max_ml": 52.096199999999996,
+      "max_ai": 10.0,
+      "max_final": 22.628859999999996
+    },
+    {
+      "name": "Normal_Videos_150_x264.mp4",
+      "max_ml": 43.080999999999996,
+      "max_ai": 10.0,
+      "max_final": 19.9243
+    },
+    {
+      "name": "Normal_Videos_248_x264.mp4",
+      "max_ml": 36.594,
+      "max_ai": 10.0,
+      "max_final": 19.722942857142858
+    },
+    {
+      "name": "Normal_Videos_310_x264.mp4",
+      "max_ml": 97.2,
+      "max_ai": 10.0,
+      "max_final": 36.16
+    },
+    {
+      "name": "Normal_Videos_312_x264.mp4",
+      "max_ml": 61.89155520847211,
+      "max_ai": 10.0,
+      "max_final": 25.567466562541632
+    },
+    {
+      "name": "Normal_Videos_345_x264.mp4",
+      "max_ml": 62.949999999999996,
+      "max_ai": 10.0,
+      "max_final": 25.884999999999998
+    },
+    {
+      "name": "Normal_Videos_452_x264.mp4",
+      "max_ml": 52.65,
+      "max_ai": 10.0,
+      "max_final": 22.794999999999998
+    },
+    {
+      "name": "Normal_Videos_745_x264.mp4",
+      "max_ml": 62.07499999999999,
+      "max_ai": 10.0,
+      "max_final": 25.622499999999995
+    },
+    {
+      "name": "Normal_Videos_831_x264.mp4",
+      "max_ml": 50.519999999999996,
+      "max_ai": 10.0,
+      "max_final": 22.156
+    },
+    {
+      "name": "Normal_Videos_881_x264.mp4",
+      "max_ml": 59.559649200439466,
+      "max_ai": 10.0,
+      "max_final": 24.86789476013184
+    },
+    {
+      "name": "Normal_Videos_885_x264.mp4",
+      "max_ml": 38.66014031839371,
+      "max_ai": 10.0,
+      "max_final": 18.59804209551811
+    }
+  ],
+  "detailed_results": [
+    {
+      "video": "Normal_Videos_015_x264.mp4",
+      "frames_processed": 30,
+      "max_ml_score": 24.275,
+      "max_ai_score": 10.0,
+      "max_final_score": 18.828666666666667,
+      "avg_ml_score": 8.884514858165513,
+      "avg_ai_score": 0.3333333333333333,
+      "avg_final_score": 8.551431524832179,
+      "passed": 
